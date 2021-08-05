@@ -1,7 +1,7 @@
 # GDSTD-Prototype-2
 This was a small project I've made to experiment and study with multiplayer and networking.
 
-You can download the latest release [here]().
+You can download the latest release [here](https://github.com/lcscout/GDSTD-Prototype-2/releases).
 
 ## Credits
 The game assets I've used can be found for free at:
