@@ -1,5 +1,5 @@
 # Game Dev Study: Prototype 2
-This was a small project I've made to experiment and study with multiplayer and networking.
+This was a small project I've made to experiment and study multiplayer and networking in Unity.
 
 ![Prototype Image](https://github.com/lcscout/GDSTD-Prototype-2/blob/main/gdstd2.png "Prototype Image")
 
