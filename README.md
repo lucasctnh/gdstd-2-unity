@@ -3,7 +3,7 @@ This was a small project I've made to experiment and study multiplayer and netwo
 
 ![Prototype Image](https://github.com/lcscout/GDSTD-Prototype-2/blob/main/gdstd2.png "Prototype Image")
 
-If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.me/projects/gdstd2).
+If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.dev/projects/gdstd2).
 
 ## Download
 You can download the latest release [here](https://github.com/lcscout/GDSTD-Prototype-2/releases).
@@ -19,4 +19,4 @@ The game assets I've used can be found for free at:
 This project requires Unity3D (2020.3+) to build and run. Clone this repository and open the "GDSTD - Prototype 2" folder in Unity.
 
 ## Credits
-Created, designed, and developed by [Lucas Coutinho](https://lucascoutinho.me). Open sourced under the [MIT](https://github.com/lcscout/GDSTD-Prototype-2/blob/main/LICENSE) license ❤️.
+Created, designed, and developed by [Lucas Coutinho](https://lucascoutinho.dev). Open sourced under the [MIT](https://github.com/lcscout/GDSTD-Prototype-2/blob/main/LICENSE) license ❤️.
